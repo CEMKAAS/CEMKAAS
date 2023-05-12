@@ -1,16 +1,16 @@
-### Hi there 👋
+### Привет!
 
-<!--
-**CEMKAAS/CEMKAAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **Заросликов Семён**, разрабочик java.
 
-Here are some ideas to get you started:
+### Вот, мои проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Мой проект под Android - [Мое Хозяйство](https://путь/к/ссылке)
+
+2. Репозиторий с дипломной работой - [Диплом](https://github.com/CEMKAAS/pcs-final-diplom)
+
+3. Домашние работы по курсу Java - [Работы](https://github.com/CEMKAAS/repo-name/blob/main/homeWork.md)
+
+### Сертификаты Нетологии 
+
+1. Java - [Сертификат](https://github.com/CEMKAAS/repo-name/blob/main/certificate.pdf)
+
