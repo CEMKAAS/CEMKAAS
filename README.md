@@ -8,9 +8,9 @@
 
 2. Репозиторий с дипломной работой - [Диплом](https://github.com/CEMKAAS/pcs-final-diplom)
 
-3. Домашние работы по курсу Java - [Работы](https://github.com/CEMKAAS/repo-name/blob/main/homeWork.md)
+3. Домашние работы по курсу Java - [Работы](https://github.com/CEMKAAS/CEMKAAS/blob/main/HomeWork)
 
 ### Сертификаты Нетологии 
 
-1. Java - [Сертификат](https://github.com/CEMKAAS/repo-name/blob/main/certificate.pdf)
+1. Java - [Сертификат](https://github.com/CEMKAAS/CEMKAAS/blob/main/certificate.pdf)
 
