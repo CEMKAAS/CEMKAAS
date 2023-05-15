@@ -4,7 +4,7 @@
 
 ### Вот, мои проекты
 
-1. Мой проект под Android - [Мое Хозяйство](https://путь/к/ссылке)
+1. Мой проект под Android - [Мое Хозяйство](https://github.com/CEMKAAS/my_ferma_n)
 
 2. Репозиторий с дипломной работой - [Диплом](https://github.com/CEMKAAS/pcs-final-diplom)
 
