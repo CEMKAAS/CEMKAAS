@@ -6,9 +6,11 @@
 
 1. Мой проект под Android - [Мое Хозяйство](https://github.com/CEMKAAS/my_ferma_n)
 
-2. Репозиторий с дипломной работой - [Диплом](https://github.com/CEMKAAS/pcs-final-diplom)
+2. Мой проект под Android - [Мое Строительство](https://github.com/CEMKAAS/myConstruction)
+ 
+3. Репозиторий с дипломной работой - [Диплом](https://github.com/CEMKAAS/pcs-final-diplom)
 
-3. Домашние работы по курсу Java - [Работы](https://github.com/CEMKAAS/CEMKAAS/blob/main/HomeWork.md)
+4. Домашние работы по курсу Java - [Работы](https://github.com/CEMKAAS/CEMKAAS/blob/main/HomeWork.md)
 
 ### Сертификаты Нетологии 
 
