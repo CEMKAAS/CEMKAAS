@@ -6,9 +6,9 @@
 
 1. Мой проект под Android (java/ kotlin) - [Мое Хозяйство](https://github.com/CEMKAAS/my_ferma_n)
 
-2. Мой проект под Android (java/ kotlin) - [Мое Строительство](https://github.com/CEMKAAS/myConstruction)
+2. Мой проект под Android (java/ kotlin) - [Мое Строительство](https://github.com/CEMKAAS/myConstructorKotlin)
 
-3. Мой проект под Android (java/ kotlin) - [Мой счет](https://github.com/CEMKAAS/myConstruction)
+3. Мой проект под Android (java/ kotlin) - [Мой счет](https://github.com/CEMKAAS/MyCount)
  
 4. Репозиторий с дипломной работой - [Диплом](https://github.com/CEMKAAS/pcs-final-diplom)
 
