@@ -4,13 +4,15 @@
 
 ### Вот, мои проекты
 
-1. Мой проект под Android - [Мое Хозяйство](https://github.com/CEMKAAS/my_ferma_n)
+1. Мой проект под Android (java/ kotlin) - [Мое Хозяйство](https://github.com/CEMKAAS/my_ferma_n)
 
-2. Мой проект под Android - [Мое Строительство](https://github.com/CEMKAAS/myConstruction)
+2. Мой проект под Android (java/ kotlin) - [Мое Строительство](https://github.com/CEMKAAS/myConstruction)
+
+3. Мой проект под Android (java/ kotlin) - [Мой счет](https://github.com/CEMKAAS/myConstruction)
  
-3. Репозиторий с дипломной работой - [Диплом](https://github.com/CEMKAAS/pcs-final-diplom)
+4. Репозиторий с дипломной работой - [Диплом](https://github.com/CEMKAAS/pcs-final-diplom)
 
-4. Домашние работы по курсу Java - [Работы](https://github.com/CEMKAAS/CEMKAAS/blob/main/HomeWork.md)
+5. Домашние работы по курсу Java - [Работы](https://github.com/CEMKAAS/CEMKAAS/blob/main/HomeWork.md)
 
 ### Сертификаты Нетологии 
 
